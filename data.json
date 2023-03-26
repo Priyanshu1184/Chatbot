@@ -1,0 +1,53 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+     "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+     "context": [""]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+     "context": [""]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure"],
+     "context": [""]
+    },
+    {"tag": "noanswer",
+     "patterns": [],
+     "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+     "context": [""]
+    },
+    {"tag": "options",
+     "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+     "responses": ["I can guide you through any queries related to Bhilai Institute of Technology Durg", "Offering support for queries related to BIT Durg"],
+     "context": [""]
+    },
+    {"tag": "Foundation",
+     "patterns": ["When was BIT Durg established?", "When was BIT founded?" ],
+     "responses": ["BIT-Durg was established in 1986, it was affiliated to Pandit Ravishankar Shukla University, Raipur and started offering Bachelor of Engineering in Civil Engineering, Electrical Engineering, Electronics and Telecommunication and Mechanical Engineering with an intake capacity of 180 students."],
+     "context": [""]
+    },
+    {"tag": "Building",
+     "patterns": ["How many Block's are there in BIT Durg","how many building are there in bit durg" ],
+     "responses": ["There are a total of 5 block's in BIT Durg."],
+     "context": [""]
+    },
+    {"tag": "Branch",
+     "patterns": ["Which branch's are offered in bit durg","What are the branch present in bit durg","How many branch are there in bit durg" ],
+     "responses": ["BIT offers Bachelor of Technology (B.Tech) in Civil Engineering, Electrical and Electronics Engineering, Mechanical Engineering, Computer Science Engineering (Specalization in AI and Data Science), Information Technology etc."],
+     "context": [""]
+    },
+    {"tag": "Courses",
+     "patterns": ["What are the courses offered in BIT Durg","what are the program offered in bit durg" ],
+     "responses": ["The Programmes offered by the institute can be broadly classified as follows: Undergraduate programmes, Postgraduate programmes,Doctorate programmes"],
+     "context": [""]
+    },
+    {"tag": "Admit",
+     "patterns": ["How can we get admission in BIT durg","what are the ways to get admission in BIT Durg" ],
+     "responses": ["The Institute admits undergraduate students through CGPET and JEE-Main, MCA students through AIMCET, MBA students through MAT and M.E/M.Tech students through GATE."],
+     "context": [""]
+    }
+]
+}
