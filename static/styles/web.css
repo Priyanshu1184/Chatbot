@@ -1,0 +1,97 @@
+body{
+    display: flex;
+    justify-content: right;
+    align-items:center;
+    min-height: 100%;
+    padding-right: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: white;
+  }
+   @keyframes slidein {
+    0% { transform: translateY(0px); }
+    100% { transform: translateY(280px); }
+
+    
+  } 
+  .vdo{
+  height: 600px;
+  width: 400px;
+  margin-right: 1000px;
+  animation-duration: 2s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: ease-in;
+  }
+
+  
+  .box{
+    position: absolute;     
+    height: 600px;
+    width: 800px;  
+    margin-top: 80px; 
+    background-color: rgb(223, 239, 253);
+    overflow: hidden;
+    border-radius: 20px;
+  }
+  
+  .form button {
+    border: none;
+    background: none;
+    color: black;
+  }
+
+  .form {
+    --timing: 0.3s;
+    --width-of-input: 200px;
+    --height-of-input: 40px;
+    
+    --input-bg: white;
+    --border-radius: 30px;
+    --after-border-radius: 7px;
+    position: relative;
+    width: 750px;
+    height: var(--height-of-input);
+    display: flex;
+    align-items: center;
+    padding-inline: 0.3em;
+    border-radius: var(--border-radius);
+    transition: border-radius 0.5s ease;
+    background: var(--input-bg,#eeb8b8);
+    margin-top: 550px;
+    margin-left: 20px;
+  
+  }
+  .input {
+    font-size: 0.9rem;
+    background-color: transparent;
+    color: black;
+    width: 700px;
+    height: 40px;
+    padding-inline: 0.5em;
+    padding-block: 0.7em;
+    border: none;
+    
+  }
+  
+  
+  .form:focus-within {
+    border-radius: var(--after-border-radius);
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  .form:focus-within:before {
+    transform: scale(1);
+  }
+  .form svg {
+    width: 17px;
+    margin-top: 3px;
+  }
+  
+  
+  
+  
