@@ -48,6 +48,47 @@
      "patterns": ["How can we get admission in BIT durg","what are the ways to get admission in BIT Durg" ],
      "responses": ["The Institute admits undergraduate students through CGPET and JEE-Main, MCA students through AIMCET, MBA students through MAT and M.E/M.Tech students through GATE."],
      "context": [""]
+    },
+    {"tag": "Vulgur",
+     "patterns": ["Shut up"],
+     "responses": ["Who caresabout your thought"],
+     "context": [""]
+    },
+    {"tag": "HOD",
+     "patterns": ["HOD","who is the HOD?","How many HOD"],
+     "responses": ["HOD i.e Head of department. Each department has their own respective HOD. Which Head of Department do you want to know about?"],
+     "context": [""]
+    },
+    {"tag": "CSE HOD",
+     "patterns": ["Who is the HOD of CSE Department?","Who is cse hod","Who is the HOD of Computer Science Department"],
+     "responses": ["Dr. Sunita Soni is the HOD of CSE Department."],
+     "context": [""]
+    },
+    {"tag": "IT HOD",
+     "patterns": ["Who is the HOD of IT Department?","Who is IT hod","Who is the hod of information and technology HOD"],
+     "responses": ["Dr. Ani Thomas is the Head of IT Department."],
+     "context": [""]
+    },
+    {"tag": "Civil HOD",
+     "patterns": ["Who is the HOD of Civil Department?","Who is civil hod"],
+     "responses": ["Dr. S. K . Jaiswal is the Head of IT Department."],
+     "context": [""]
+    },
+    {"tag": "EEE HOD",
+     "patterns": ["Who is the HOD of EEE Department?","Who is Electronic's hod","who is EEE HOD"],
+     "responses": ["Dr. (Mrs.) Surekha Bhusnur is the Head of EEE Department."],
+     "context": [""]
+    },
+    {"tag": "EE HOD",
+     "patterns": ["Who is the HOD of EE Department?","Who is the head of Electrical Engineering","who is EE HOD"],
+     "responses": ["Dr. Soorya Prakash Shukla is the Head of EE Department."],
+     "context": [""]
+    },
+    {"tag": "ETC HOD",
+     "patterns": ["Who is the HOD of ETC Department?","Who is the head of Electronic's and Telecommunication","who is ETC HOD"],
+     "responses": ["Dr. Arun Kumar is the Head of ETC Department."],
+     "context": [""]
     }
 ]
+
 }
