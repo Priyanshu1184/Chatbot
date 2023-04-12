@@ -89,6 +89,101 @@
      "responses": ["Dr. Arun Kumar is the Head of ETC Department."],
      "context": [""]
     }
+        {"tag":"CSE Faculty",
+     "patterns": ["how many Faculty are there in CSE department?","name CSE Faculty","how many Faculty are in CSE department"],
+     "responses": ["Dr. D. P. Mishra(Associate Professor),Dr. Partha Roy(Associate Professor),Prof. Ashok Kumar Behera(Associate Professor),Dr. Sumit Kumar Sar(Associate Professor),Prof. Shweta Kharya(Associate Professor),Prof. Sudip Kumar Bhattacharya(Associate Professor),Prof. Shankha De(Associate Professor),Dr. Pawan Kumar Patnaik(Associate Professor),Prof. Saurabh Singh(Associate Professor(Adhoc)),Prof. Vivek Parganiha(Associate Professor (Adhoc))Prof. Dinesh Kumar Bhawnani(Assistant Professor),Dr. Monika Arya(Assistant Professor),Prof. Shiv Dutta Mishra(Assistant Professor),Prof. Kauleshwar Prasad(Assistant Professor),Prof. Monika Verma(Assistant Professor),Prof. Chaitali Choudhary(Assistant Professor),Prof. Sargam Gupta(Assistant Professor),Prof. N. Chiranjeeva Rao(Assistant Professor),Prof. Sanjeev Shrivastava(Assistant Professor),Prof. Nikita Ahuja Jeswani(Assistant Professor),Prof. Sunil Kumar Naik(Assistant Professor),Prof. Vibhore Jain(Assistant Professor),Prof. Revati Raman Dewangan(Assistant Professor),Prof. Amit Thakur(Assistant Professor),Prof. Shanu Pandey(Assistant Professor)Prof. DASARI SIVA SANKAR(Assistant Professor),Prof. Usha Kiran(Assistant Professor)"],
+     "context": [""]
+   },
+   {"tag":"Civil Faculty",
+     "patterns":["how many Faculty are there in Civil department?","name Civil Faculty","how many Faculty are in Civil department"],
+     "responses":["Dr. S. K . Jaiswal(Professor & Head),Dr. M.K. Gupta(Professor & Principal),Dr. (Mrs.) Sindhu J. Nair(Professor),Dr. Nishant Yadav(Associate Professor),Mrs. Mallika Jain(Assistant Professor),Mrs. Madhumati Yadav(Assistant professor),Mr. Tushar Saxena(Assistant professor),Mr. Hitesh Sharma(Assistant professor),Ms. Deepa Sahu(Assistant professor),Ms.Deepti Hazari(Assistant professor),Mr. Sumit Gupta(Assistant professor),Mr. Gaurav Kesharwani(Assistant professor),Mrs. Kavya Lalwani(Assistant Professor),Mrs. Somya Madvariya(Assistant Professor),Mrs. Shikha Verma(Assistant Professor),Mr. Shubham Dashore(Assistant Professor),Mrs. SARITA TIWARI(Assistant Professor),Ms. Bhavana Bhonsle(Assistant Professor),Mr. Kishan Kumar Dewangan(Assistant Professor),Mr.Aryan Khare(Assistant Professor),Mr. Ankush Haldkar(Assistant Professor)     "],
+     "context":[""]
+    },
+    {"tag":"EEE Faculty",
+     "patterns":["how many Faculty are there in EEE department?","name EEE Faculty","how many Faculty are in EEE department"],
+     "responses":["Dr. Anup Mishra(Sr. Professor & Coordinator (EE, EEE and ETC Department)),Dr. (Mrs.) Surekha Bhusnur(Professor & Head),Dr. Abhishek Verma(Professor),Mr. Mousam Sharma(Assistant Professor),Dr. Mukesh Kumar Chandrakar(Assistant Professor),Mr. Abhishek Kumar Agrawal(Assistant Professor),Mrs. Alka Mishra(Assistant Professor),Mr. Abhijeet Lal(Assistant Professor),Mrs. Naushin Anjum(Assistant Professor),Mr. Brahma Nand Thakur(Assistant Professor),Mrs. Ritu Tripathi(Assistant Professor),Dr. Heena Mishra(Assistant Professor),Mr. Anupam Agrawal(Assistant Professor)"],
+     "context":[""]
+    },
+    {"tag":"ETC Faculty",
+     "patterns":["how many Faculty are there in ETC department?","name ETC Faculty","how many Faculty are in ETC department"],
+     "responses":["Dr. Manisha Sharma(Vice- Principal & Professor),Dr. Naveen Kumar Dewangan(Professor),Dr. Arun Kumar(Professor & Head),Dr. Ravindra Manohar Potdar(Associate Professor),Mr. Anil Kumar Mishra(Associate Professor),Dr . Vinni Sharma(Associate Professor),Mrs. K. Uma(Associate Professor),Mrs. Tanuja Kashyap(Associate Professor),Dr. Swati Agrawal(Associate Professor),Mrs. Kiran Dewangan(Assistant Professor),Dr. Amar Kumar Dey(Assistant Professor),Mrs. Ekta Tamrakar(Assistant Professor),Mrs. Suchitra Pandey(Assistant Professor),Mr. Prabhakar(Assistant Professor),Ms. Megha Sahu(Assistant Professor),Mr. Pushpendra Singh(Assistant Professor),Mrs. Dolly Gautam(Assistant Professor),Mrs. Neha Singh(Assistant Professor)"],
+     "context":[""]
+    },
+    {"tag":"IT Faculty",
+     "patterns":["how many Faculty are there in IT department?","name IT Faculty","how many Faculty are in IT department"],
+     "responses":["Dr. Ani Thomas(Professor & Head),Dr. Jyothi Pillai(Professor),Mr. Vikas Pandey(Associate Professor),Mrs. K Subhashini Spurjeon(Assistant Professor),Mr. Rajiv Pathak(Associate Professor(Adhoc)),Mrs. Babita Verma(Assistant Professor),Mr. Amrendra Kumar Singh(Assistant professor),Mr. Toshant Kumar(Assistant Professor),Mr. Sarang Pitale(Assistant Professor),Mr. Raj Kumar Singh(Assistant Professor),Mr. Padmadhar Mishra(Assistant Professor),Mrs. Gargi Mishra(Assistant Professor),Mrs. Jyoti Gupta(Assistant Professor),Mr.Prabhat Ghadole(Assistant Professor)"],
+     "context":[""]
+    },
+    {"tag":"Mech",
+     "patterns":["how many Faculty are there in Mech department?","name Mech Faculty","how many Faculty are in Mech department"],
+     "responses":["Dr. Shiena Shekhar(Head of Department & Professor),Dr. Manoj Kr Pal(Professor),Dr. Raghwendra Banchhor(Professor),Dr.Shubhrata Nagpal(Professor),Dr. Mukesh Dubey(Professor),Mr.Satish Kumar Sao(Assistant Professor),Dr.Shabana Naz Siddique(Associate professor),Dr. Anil Kumar(Associate Professor),Dr. Santosh Kr Mishra(Associate professor),Dr.Devesh Shrivastava(Associate Professor),Mr. Jitendra Chauhan(Assistant Professor),Mr.Santosh Kumar Rao(Assistant Professor),Mr.Jaysingh Gaharwar(Assistant Professor),Mr.Prem Shankar Sahu(Assistant Professor),Mr.Manish Kumar(Assistant Professor),Mrs. Anjul Rai(Assistant Professor),Mr. Shekhar Sahu(Assistant Professor),Mr. Khilesh Kumar(Assistant Professor),Mr.Manoj Sao(Assistant Professor),Mr. Vinay Kumar Sahu(Assistant Professor),Mr. Pileshwer Chandrakar(Assistant Professor),Mr. Devendra Dhole(Proterm Lecturer),Mr. Sanjay Mishra(Assistant Workshop Superintendent)"],
+     "context":[""]
+    },
+    {"tag":"EE Faculty",
+    "patterns":["how many Faculty are there in EE department?","name EE Faculty","how many Faculty are in EE department"],
+    "responses":["Dr. Soorya Prakash Shukla(Professor & Head),Dr. (Mrs.) Anupama Huddar(Professor)Dr. Sanjaya Kumar Sahu(Professor),Dr. (Mrs) Archana Gupta(Professor),Dr. Supriya Tripathi(Professor)Dr. Nagendra Tripathi(Professor),Dr. G. C. Biswal(Associate Professor),Lt. Uma P Balaraju (On Study Leave)(Assistant Professor),Mrs. Shraddha Kaushik(Assistant Professor),Mr. Alok Kumar(Assistant Professor),Mr. Jitesh Panigrahi(Assistant Professor),Mr. Gourav Shankar(Assistant Professor),Mrs. Jyotsana Kaiwart(Assistant Professor),Mrs. Sonora Dixit(Assistant Professor),Mr. Shashank Tiwari(Assistant Professor),Mrs.Pritha Gupta(Assistant Professor)"],
+    "context":[""]
+    },
+    {"tag":"Humanities",
+    "patterns":["does bit have humanitites department?","Bit humanites department"],
+    "responses":["BIT department of Humanities has been successfully using a need based technical English course to the graduate and post-graduate students of BIT. The course is unique in that it aims at and aspires to achieve efficiency and efficacy in its purpose. The Department is devised to infuse strategic inputs in the students that they can draw on to deliver results. The students are offered outstanding educational curriculum in communication that takes place in an atmosphere of academic excellence. The educational learning process involves advanced training in theory aided with modern equipments."],
+    "context":[""] 
+    },
+    {
+        "tag":"Sciences",
+        "patterns":["Does bit have science department","which streams are offered in science department of bit"],
+        "responses":["Science Department include Applied Chemistry, Applied Mathematics, Applied Physics, Humanities"],
+        "context":[""]
+    },
+    {
+        "tag":"",
+        "patterns":["NIRF ranking of bit","what is rank of bit in nirf"],
+        "responses":["BIT comes under the 251-300 band in the NIRF ranking of 2020. BIT secured the 85th spot in the ranking of best engineering colleges of India by India Today in 2020."],
+        "context":[""]
+    },
+    {
+        "tag":"UG Program",
+        "patterns":["what are the UG program offered by BIT","Undergraduated program offered by BIT?"],
+        "responses":["UG Program offered by bit are Bachelor Of Technology (B.Tech), Bachelor Of Vocational (B. Voc.)"],
+        "context":[""]
+    },
+    {
+        "tag":"PG Program",
+        "patterns":["what are the PG program offered by BIT","PostGraduated program offered by BIT?"],
+        "responses":["PG Program offered by BIT are Master Of Technology (M.Tech), Master Of Computer Applications (MCA), Master Of Business Adminstration(MBA)"],
+        "context":[""]
+    },
+    {
+        "tag":"PHD",
+        "patterns":["Does BIt Offer Phd Program"],
+        "responses":["The 10 Departments of Bhilai Institute of Technology are approved as PhD Research Centre from Chhattisgarh Swami Vivekananda Technology Technical University, Bhilai."],
+        "context":[""]
+    },
+    {
+        "tag":"OJAS",
+        "patterns":["what are the major festival celebrated in BIT","What is OJAS"],
+        "responses":[" The annual technical fest of BIT Durg has become one of the biggest technical fest of the region. Started in 2009 aimed at providing a platform for showcasing the best and the latest innovations in the world of technology, various events such as Robotics, LAN Gaming, Face of OJAS, Circuit designing, Programming, Paper Presentations etc. gives the students to showcase their talent and their practical skills to use.. Entirely managed by students, OJAS provides an opportunity for aspiring scientistsand managers alike."],
+        "context":[""]
+    },
+    {
+        "tag":"Aminites",
+        "patterns":["What are the aminites available in BIT","What are the facilities available in BIT"],
+        "responses":["Some of the amenities available in BIT Durg are like Library, Wifi Campus, Bank, Medical Facility, Shopping Complex, Gymnasium and etc."],
+        "context":[""]
+    },
+    {
+        "tag":"CLUB",
+        "patterns":["What are the different type of CLUB's available in BIT","CLUB's in BIT"],
+        "responses":["Some of the CLUB's of BIT Durg are like +Astro Club, Clicks Club, Techno Hub, Developer Student Community, PAC, Innovation Club, Vista Club and ETC."],
+        "context":[""]
+    },
+    {
+        "tag":"Companies",
+        "patterns":["WHich comapnies visit BIT Durg","Companies that visit BIT during Placement"],
+        "responses":["Some of the Major Companies that visit BIT during Placement time are like Infosys, IBM, Goorej, BALCO, Cognizant, ADANI, WIPRO, Accenture, Kotak, HCL, ICICI, Axis  ETC."],
+        "context":[""]
+    }
+
 ]
 
 }
