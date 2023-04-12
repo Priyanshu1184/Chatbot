@@ -88,8 +88,8 @@
      "patterns": ["Who is the HOD of ETC Department?","Who is the head of Electronic's and Telecommunication","who is ETC HOD"],
      "responses": ["Dr. Arun Kumar is the Head of ETC Department."],
      "context": [""]
-    }
-        {"tag":"CSE Faculty",
+    },
+     {"tag":"CSE Faculty",
      "patterns": ["how many Faculty are there in CSE department?","name CSE Faculty","how many Faculty are in CSE department"],
      "responses": ["Dr. D. P. Mishra(Associate Professor),Dr. Partha Roy(Associate Professor),Prof. Ashok Kumar Behera(Associate Professor),Dr. Sumit Kumar Sar(Associate Professor),Prof. Shweta Kharya(Associate Professor),Prof. Sudip Kumar Bhattacharya(Associate Professor),Prof. Shankha De(Associate Professor),Dr. Pawan Kumar Patnaik(Associate Professor),Prof. Saurabh Singh(Associate Professor(Adhoc)),Prof. Vivek Parganiha(Associate Professor (Adhoc))Prof. Dinesh Kumar Bhawnani(Assistant Professor),Dr. Monika Arya(Assistant Professor),Prof. Shiv Dutta Mishra(Assistant Professor),Prof. Kauleshwar Prasad(Assistant Professor),Prof. Monika Verma(Assistant Professor),Prof. Chaitali Choudhary(Assistant Professor),Prof. Sargam Gupta(Assistant Professor),Prof. N. Chiranjeeva Rao(Assistant Professor),Prof. Sanjeev Shrivastava(Assistant Professor),Prof. Nikita Ahuja Jeswani(Assistant Professor),Prof. Sunil Kumar Naik(Assistant Professor),Prof. Vibhore Jain(Assistant Professor),Prof. Revati Raman Dewangan(Assistant Professor),Prof. Amit Thakur(Assistant Professor),Prof. Shanu Pandey(Assistant Professor)Prof. DASARI SIVA SANKAR(Assistant Professor),Prof. Usha Kiran(Assistant Professor)"],
      "context": [""]
